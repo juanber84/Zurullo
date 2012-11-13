@@ -1,0 +1,38 @@
+#!/usr/bin/env php
+<?php
+  
+require (dirname(__FILE__).'/funciones.php');
+ 
+echo "\033[31m                                                                          \033[37m\n";
+echo "\033[31m          ,                                                               \033[37m\n";
+echo "\033[31m 	    ` ,_   ,    _____  _   _  ___  _   _ _    _     ___                 \033[37m\n";
+echo "\033[31m 	 `  _(  )_          /  |   | |   | |   | |    |    |   |                \033[37m\n";
+echo "\033[31m 	  _(  `   )_      /    |   | |___| |   | |    |    |   |                \033[37m\n";
+echo "\033[31m 	 ( `-.   '  )   /____  |___| |  \  |___| |___ |___ |___|                \033[37m\n";
+echo "\033[31m 	  `-.____,-'                                                            \033[37m\n";
+echo "\033[31m                                                                          \033[37m\n";
+echo "\033[31m                                                                          \033[37m\n";
+echo "\033[32mEscriba help para ver la lista de comandos si necesita ayuda....        \033[37m\n";
+echo "\033[31m                                                                          \033[37m\n";
+echo "\033[31m                                                                          \033[37m\n";
+echo "\033[31m                                                                          \033[37m\n";
+
+$consola = fopen("php://stdin", "r"); // Abrimos para leer de la consola de php 
+do { // Inicio del bucle 
+    echo "zurullo /> "; 
+    $read = trim(fread($consola, 512)); 
+	
+	switch ($read) {
+	    case 'help':
+	        help();
+	    break;
+
+	    default:
+
+	    break;
+	}
+
+} while ($read != "exit"); // Repetimos mientras no se lea la orden de salir 
+fclose($consola);
+
+
