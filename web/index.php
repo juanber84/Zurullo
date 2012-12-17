@@ -5,9 +5,15 @@ require_once '../vendor/router.php';
 
 Router::_init();
 
-require_once '../src/controllers/main.php';
-require_once '../src/controllers/demo.php';
-require_once '../src/controllers/prueba.php';
+$path= '../src/controllers/';
+$directory=dir($path);	
+while ($file = $directory->read())
+{
+	if ($file!='.' && $file!='..' && $file!='.DS_Store') {
+		require_once $path.$file;
+	}	
+}
+$directory->close();
 
 try{
     Router::run();
