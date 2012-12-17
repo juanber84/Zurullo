@@ -26,9 +26,16 @@ do { // Inicio del bucle
 	    case 'help':
 	        help();
 	    break;
+	    
+      case 'generate.page':
+          generate_page();
+      break;
+      
+      case 'generate.entity':
+          generate_entity();
+      break;
 
 	    default:
-
 	    break;
 	}
 
