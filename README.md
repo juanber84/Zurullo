@@ -31,7 +31,7 @@ Escriba help para ver la lista de comandos si necesita ayuda....
                   
     zurullo /> exit
 
-Se habra generado el controlador y vista bajo la url /pruebadepagina.
+Se habrá generado el controlador y vista bajo la url /pruebadepagina.
 
 
 
