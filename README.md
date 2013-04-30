@@ -10,29 +10,28 @@ Te saldra lo siguiente
  	    ` ,_   ,    _____  _   _  ___  _   _ _    _     ___
  	 `  _(  )_          /  |   | |   | |   | |    |    |   |
  	  _(  `   )_      /    |   | |___| |   | |    |    |   |
- 	 ( `-.   '  )   /____  |___| |  \ |__| |___ |___ |___|
+ 	 ( `-.   '  )   /____  |___| |  \  |___| |___ |___ |___|
  	  `-.____,-'
-                                                                          
-                                                                          
+                                                                                                                                            
 Escriba help para ver la lista de comandos si necesita ayuda....
                                                                                                                                                  
-zurullo /> 
+    zurullo />
+ 
+    zurullo /> help
+                  
+    generate.page
+                  
+    zurullo /> generate.page
+                  
+    ¿Como quieres llamar a la pagina?
+                  
+    pruebadepagina
+                  
+    Pagina generada 
+                  
+    zurullo /> exit
 
-zurullo /> help
-                  
-generate.page
-                  
-zurullo /> generate.page
-                  
-�Como quieres llamar a la pagina?
-                  
-pruebadepagina
-                  
-Pagina generada 
-                  
-zurullo /> exit
-
-- Se le habra generado el controlador y vista bajo la url /pruebadepagina.
+Se habra generado el controlador y vista bajo la url /pruebadepagina.
 
 
 
