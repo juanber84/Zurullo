@@ -1,10 +1,10 @@
 # ZURULLO for php
 
-- Para crear una pagina personalizada navegue hasta el directorio donde haya clonado su proyecto y teclee en su terminal.
-	
-	hp app/console
+Para crear una pagina personalizada navegue hasta el directorio donde haya clonado su proyecto y teclee en su terminal.
 
-- Se saldra lo siguiente
+    php app/console
+
+Te saldra lo siguiente
 
           ,                                                               
  	    ` ,_   ,    _____  _   _  ___  _   _ _    _     ___
