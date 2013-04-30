@@ -15,13 +15,13 @@ Te saldra lo siguiente
                                                                                                                                             
     Escriba help para ver la lista de comandos si necesita ayuda....
                                                                                                                                                  
-    >zurullo />
+    zurullo />
  
-    >zurullo /> help
+    zurullo /> help
                   
     generate.page
                   
-    >zurullo /> generate.page
+    zurullo /> generate.page
                   
     ¿Como quieres llamar a la pagina?
                   
@@ -29,7 +29,7 @@ Te saldra lo siguiente
                   
     Pagina generada 
                   
-    >zurullo /> exit
+    zurullo /> exit
 
 Se habrá generado el controlador y vista bajo la url /pruebadepagina.
 
