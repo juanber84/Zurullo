@@ -59,7 +59,8 @@
 		</div>
 		<div class="ten columns alpha">		
 			<h3>Estructura básica de un proyecto Zurullo </h3>
-			<div class="five columns alpha">
+				
+			<div class="three columns alpha">
 				<ul class="square">
 					<li><strong>app/</strong>
 						<ul>
