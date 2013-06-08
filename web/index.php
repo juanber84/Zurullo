@@ -2,6 +2,7 @@
 define('SYSTEM', 1);
 
 require_once '../vendor/router.php';
+require_once '../vendor/render/render.php';
 
 Router::_init();
 
