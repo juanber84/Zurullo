@@ -4,7 +4,7 @@ Para crear una pagina personalizada navegue hasta el directorio donde haya clona
 
     php app/console
 
-Te saldra lo siguiente
+Te saldra lo siguiente.
 
           ,                                                               
  	    ` ,_   ,    _____  _   _  ___  _   _ _    _     ___
@@ -34,8 +34,7 @@ Te saldra lo siguiente
 Se habrá generado el controlador y vista bajo la url /pruebadepagina.
 
 Powered by zurullo:
-
-http://22q13.org.es/
+    http://22q13.org.es/
 
 
 
