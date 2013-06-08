@@ -34,8 +34,10 @@ Te saldra lo siguiente.
 Se habrá generado el controlador y vista bajo la url /pruebadepagina.
 
 Powered by zurullo:
-http://juanber84.pusku.com
-http://22q13.org.es
+
+    http://juanber84.pusku.com
+    
+    http://22q13.org.es
 
 
 
