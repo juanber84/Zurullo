@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>ZURULLOphp - main</title>
+	<title>ZURULLOphp - controller</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -53,7 +53,7 @@
 
 		<div class="one-third column">
 			<h3>¿Que son los controladores?</h3>
-			<p>Los controladores son funciones donde se sacan los datos que despues mostraremos en las vista.</p>
+			<p>Los controladores son funciones donde se sacan los datos que despues mostraremos en las vistas.</p>
 			<p>Tan solo una forma de separar la lógica de tu aplicación fuera de la vista.</p>
 		</div>
 		<div class="ten columns alpha">		
@@ -78,6 +78,8 @@
 		</div>	
 		<div class="sixteen columns footer">
 			<a href="https://github.com/juanber84/zurullo">zurullo in github</a>
+			&nbsp;&nbsp;
+			<a target="_blank" href="zurullo.zip">download</a>	
 		</div>
 
 	</div><!-- container -->

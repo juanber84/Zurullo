@@ -11,7 +11,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>ZURULLOphp - main</title>
+	<title>ZURULLOphp - view</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -57,7 +57,7 @@
 	<div class="one-third column">
 			<h3>¿Que son las vistas?</h3>
 			<p>Es lo que vemos en nuestro navegador.</p>
-			<p>En nuestro código html podemos renderizar las varibles que nos pasamos desde nuestro controlador.</p>
+			<p>En nuestro código html podemos renderizar las variables que nos pasamos desde nuestro controlador.</p>
 		</div>
 		<div class="ten columns alpha">		
 			<h3>Vista en Zurullo </h3>
@@ -83,6 +83,8 @@
 		</div>		
 		<div class="sixteen columns footer">
 			<a href="https://github.com/juanber84/zurullo">zurullo in github</a>
+			&nbsp;&nbsp;
+			<a target="_blank" href="zurullo.zip">download</a>			
 		</div>
 
 	</div><!-- container -->

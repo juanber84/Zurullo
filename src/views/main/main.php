@@ -54,8 +54,8 @@
 
 	<div class="one-third column">
 			<h3>¿Que es Zurullo?</h3>
-			<p>Zurullo es un micro framework para agilizar las tareas basicas a la hora de realizar una web, a la vez que mantiene tu proyecto ordenado para su optimo crecimiento y desarrollo.</p>
-			<p>Tan solo te provera de controladores y vistas con lo que tienes que tener conocimientos de php para hacer cosas compejas con el.</p>
+			<p>Zurullo es un micro framework para agilizar las tareas básicas a la hora de realizar una web, a la vez que mantiene tu proyecto ordenado para su óptimo crecimiento y desarrollo.</p>
+			<p>Tan solo te provera de controladores y vistas, con lo que tienes que tener conocimientos de php para hacer cosas compejas con el.</p>
 		</div>
 		<div class="ten columns alpha">		
 			<h3>Estructura básica de un proyecto Zurullo </h3>
@@ -112,6 +112,8 @@
 		</div>	
 		<div class="sixteen columns footer">
 			<a href="https://github.com/juanber84/zurullo">zurullo in github</a>
+			&nbsp;&nbsp;
+			<a target="_blank" href="zurullo.zip">download</a>	
 		</div>		
 
 	</div><!-- container -->
